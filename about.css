@@ -1,0 +1,37 @@
+body {
+  background-color: peachpuff;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: center;
+  /* margin: 0; */
+  /* padding: 0; */
+  /* box-sizing: border-box; */
+  /* -webkit-font-smoothing: antialiased; */
+  /* -moz-osx-font-smoothing: grayscale; */
+}
+
+.kimberly-guest-margin {
+  /* margin-top: -150px; */
+}
+/*
+.abouts {
+  margin-top: 70px;
+}
+*/
+/*
+.abouts {
+  display: grid;
+  place-items: center;
+  grid-template-rows: 1fr;
+  padding: 50px 0;
+  margin-top: 70px;
+}
+*/
+/*
+nav ul li a:hover {
+  color: orange;
+}
+*/
